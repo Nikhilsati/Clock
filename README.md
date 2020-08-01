@@ -1,5 +1,4 @@
 ![Clock Demo](/src/images/clock.png)
-Format: ![Clock](/src/images/clock.png)
 
 
 
